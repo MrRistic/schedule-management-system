@@ -1,0 +1,50 @@
+{
+  "Shifts" : [
+    {
+      "id" : 0,
+      "userIds":[0,1],
+      "name":"Developers shift Week #16",
+      "dates":{
+       "start": 1492387200000,
+        "end": 1492732800000
+      },
+      "timeStart":"10",
+      "timeEnd":"18"
+    },
+    {
+      "id" : 1,
+      "userIds":[2],
+      "name":"Managers shift Week #16",
+      "dates":{
+        "start": 1492387200000,
+        "end": 1492732800000
+      },
+      "timeStart":"8",
+      "timeEnd":"16"
+    },    {
+      "id" : 2,
+      "userIds":[0,1],
+      "name":"Developers shift Week #17",
+      "dates":{
+        "start": 1492984800000,
+        "end": 1493337600000
+      },
+      "timeStart":"10",
+      "timeEnd":"18"
+    },
+    {
+      "id" : 3,
+      "userIds":[2],
+      "name":"Managers shift Week #17",
+      "dates":{
+        "start": 1492984800000,
+        "end": 1493337600000
+      },
+      "timeStart":"8",
+      "timeEnd":"16"
+    }
+
+
+
+  ]
+}

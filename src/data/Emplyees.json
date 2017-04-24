@@ -1,0 +1,28 @@
+{
+  "Employees" : [
+    {
+      "userId": 0,
+      "jobTitleName":"Developer",
+      "firstName":"Romin",
+      "lastName":"Irani",
+      "emailAddress":"romin.k.irani@gmail.com",
+      "avatar": "tux1.png"
+    },
+    {
+      "userId": 1,
+      "jobTitleName":"Developer",
+      "firstName":"Neil",
+      "lastName":"Irani",
+      "emailAddress":"neilrirani@gmail.com",
+      "avatar": "tux2.png"
+    },
+    {
+      "userId": 2,
+      "jobTitleName":"Program Directory",
+      "firstName":"Tom",
+      "lastName":"Hanks",
+      "emailAddress":"tomhanks@gmail.com",
+      "avatar": "tux1.png"
+    }
+  ]
+}
